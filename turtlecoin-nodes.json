@@ -143,6 +143,12 @@
       "url": "val.turtlenode.online",
       "port": 11898,
       "ssl": false
+    },
+    {
+      "name": "GoCrypto Romania",
+      "url": "turtlenode.gocrypto.ro",
+      "port": 11898,
+      "ssl": false
     }
   ]
 }
