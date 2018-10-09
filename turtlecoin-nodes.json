@@ -13,6 +13,12 @@
       "ssl": false
     },
     {
+      "name": "CHRISCRYPTO",
+      "url": "trtlco.in",
+      "port": 11898,
+      "ssl": false
+    },
+    {
       "name": "Daemon.Turtle.Link",
       "url": "daemon.turtle.link",
       "port": 11898,
@@ -21,6 +27,12 @@
     {
       "name": "D. Smasher's Node",
       "url": "dsmash.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Dela Turtle EU",
+      "url": "delaturtle.ddns.net",
       "port": 11898,
       "ssl": false
     },
@@ -57,6 +69,12 @@
     {
       "name": "GoCrypto Romania",
       "url": "turtlenode.gocrypto.ro",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "greywolf",
+      "url": "turtlenode.co",
       "port": 11898,
       "ssl": false
     },
@@ -147,6 +165,18 @@
     {
       "name": "Val's Node",
       "url": "val.turtlenode.online",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "VIETNAM",
+      "url": "turtlenode1.hopto.org",
+      "port": 11898,
+      "ssl": false
+    },
+    {
+      "name": "Xaz Node",
+      "url": "35.184.50.5",
       "port": 11898,
       "ssl": false
     }
